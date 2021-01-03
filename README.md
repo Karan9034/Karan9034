@@ -16,4 +16,4 @@
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1KnBiz8jRV5LrY_NKWdsBQ2-jMlF2Uv2RwudfPPG1XNw/edit)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Karan9034&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Karan9034&hide=css,html&theme=tokyonight&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Karan9034&hide=css,html&theme=radical&layout=compact">
