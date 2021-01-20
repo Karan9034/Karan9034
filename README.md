@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **Laravel/Node.js projects**
+- 👯 I’m looking to collaborate on **Node.js projects**
 
 - 👨‍💻 All of my projects are available at [Linktree](https://linktr.ee/karanel)
 
