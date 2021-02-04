@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Karan Agrawal</h1>
-<h3>I'm a Full Stack Web Developer💻</h3>
+<h2>Hi 👋, I'm Karan Agrawal</h2>
+<h4>I'm a Full Stack Web Developer💻</h4>
 
 - 🔭 I’m currently working on [shrink-me](https://github.com/Karan9034/shrink-me)
 
