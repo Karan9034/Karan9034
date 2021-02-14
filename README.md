@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [shrink-me](https://github.com/Karan9034/shrink-me) and [Flask-ChatIO](https://github.com/Karan9034/Flask-ChatIO/)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
