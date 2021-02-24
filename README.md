@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Karan Agrawal</h2>
 <h4>I'm a Full Stack Web Developer💻</h4>
 
-- 🔭 I’m currently working on [shrink-me](https://github.com/Karan9034/shrink-me) and [ChatIO](https://github.com/Karan9034/ChatIO/)
+- 🔭 I’m currently working on [shrink-me](https://github.com/Karan9034/shrink-me)
 
 - 🌱 I’m currently learning **Machine Learning**
 
