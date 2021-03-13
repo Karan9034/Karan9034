@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Karan Agrawal</h2>
 <h4>I'm a Full Stack Web Developer💻</h4>
 
-- 🔭 I’m currently working on [cheatX](https://github.com/Karan9034/cheatX)
+- 🔭 I’m currently working on [Shōjiki](https://github.com/Karan9034/Shojiki)
 
 - 🌱 I’m currently learning **ElectronJS**
 
