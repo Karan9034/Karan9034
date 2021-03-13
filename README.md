@@ -1,15 +1,15 @@
 <h2>Hi 👋, I'm Karan Agrawal</h2>
 <h4>I'm a Full Stack Web Developer💻</h4>
 
-- 🔭 I’m currently working on [shrink-me](https://github.com/Karan9034/shrink-me)
+- 🔭 I’m currently working on [cheatX](https://github.com/Karan9034/cheatX)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ElectronJS**
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
-- 👨‍💻 All of my projects are available at [Linktree](https://linktr.ee/karanel)
+- 👨‍💻 All of my projects are available on my [GitHub Profile](https://github.com/Karan9034
 
-- 💬 Ask me anything about **Flask**
+- 💬 Ask me anything about **Web**
 
 - 📫 How to reach me **karan.agr9034@gmail.com**
 
