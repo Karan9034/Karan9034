@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available on my [GitHub Profile](https://github.com/Karan9034)
 
-- 💬 Ask me anything about **Web**
+- 💬 Ask me anything about **Web Technologies**
 
-- 📫 How to reach me **karan.agr9034@gmail.com**
+- 📫 How to reach me [Click Here](mailto:karan.agr9034@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-fNdqyJZybRARQxrGRLaljTvVJqhQtg4/view)
 
