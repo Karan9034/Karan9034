@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
-- 👨‍💻 All of my projects are available on my [GitHub Profile](https://github.com/Karan9034
+- 👨‍💻 All of my projects are available on my [GitHub Profile](https://github.com/Karan9034)
 
 - 💬 Ask me anything about **Web**
 
