@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my [Portfolio](https://github.com/Karan9034/Karan9034.github.io)
 
-- 🌱 I’m currently learning **ElectronJS**
+- 🌱 I’m currently learning **GraphQL** and **Gatsby**
 
 - 👯 I’m looking to collaborate on **MERN** and **ElectronJS** projects
 
