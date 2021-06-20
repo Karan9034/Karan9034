@@ -1,11 +1,11 @@
 <h2>Hi 👋, I'm Karan Agrawal</h2>
 <h4>I'm a Full Stack Web Developer💻</h4>
 
-- 🔭 I’m currently working on my [Portfolio](https://github.com/Karan9034/Karan9034.github.io)
+- 🔭 I’m currently working on my [Shoplift](https://github.com/Karan9034/shoplift)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **MERN** and **ElectronJS** projects
+- 👯 I’m looking to collaborate on **MERN** and **Flutter** projects
 
 - 👨‍💻 All of my projects are available on my [GitHub Profile](https://github.com/Karan9034)
 
