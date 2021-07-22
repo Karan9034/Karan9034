@@ -24,7 +24,7 @@
 <br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Karan9034&hide=css,html&theme=tokyonight&layout=compact">
 
-<br><br>
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-karanel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karanel/)](https://www.linkedin.com/in/karanel/)
 [![Instagram Badge](https://img.shields.io/badge/-_karanel-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_karanel/)](https://www.instagram.com/_karanel/)
