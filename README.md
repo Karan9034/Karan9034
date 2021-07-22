@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/karanel)
 
-<br>
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
