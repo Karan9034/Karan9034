@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Karan Agrawal</h2>
 <h4>I'm a Full Stack and Flutter Developer💻</h4>
 
-- 🔭 I’m currently working on a flutter app (It's a secret)
+- 🔭 I’m currently working on a Flutter app (It's confidential🤫)
 
 - 🌱 I’m currently learning **DSA**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me anything about **Software Development**
 
-- 📫 How to reach me [Click Here](mailto:karan.agr9034@gmail.com)
+- 📫 How to reach me [Send an Email](mailto:karan.agr9034@gmail.com)
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/karanel)
 
