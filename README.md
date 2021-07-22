@@ -17,15 +17,14 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karan9034&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Karan9034&hide=css,html&theme=tokyonight&layout=compact">
-
-<br>
-
 <p align="center"> 
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/Karan9034/count.svg" />
 </p>
+<br>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Karan9034&hide=css,html&theme=tokyonight&layout=compact">
+
+<br><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-karanel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karanel/)](https://www.linkedin.com/in/karanel/)
 [![Instagram Badge](https://img.shields.io/badge/-_karanel-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_karanel/)](https://www.instagram.com/_karanel/)
