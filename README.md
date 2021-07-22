@@ -25,9 +25,9 @@
 <p align="center"> 
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/Karan9034/count.svg" />
-
-  [![Linkedin Badge](https://img.shields.io/badge/-karanel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karanel/)](https://www.linkedin.com/in/karanel/)
-  [![Instagram Badge](https://img.shields.io/badge/-_karanel-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_karanel/)](https://www.instagram.com/_karanel/)
-  [![Website Badge](https://img.shields.io/badge/-karanel.tech-0D4B89?style=flat-square&logo=React&logoColor=white&link=https://karanel.tech/)](https://karanel.tech/)
-  [![Gmail Badge](https://img.shields.io/badge/-karan.agr9034@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karan.agr9034@gmail.com)](mailto:karan.agr9034@gmail.com)
 </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-karanel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karanel/)](https://www.linkedin.com/in/karanel/)
+[![Instagram Badge](https://img.shields.io/badge/-_karanel-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_karanel/)](https://www.instagram.com/_karanel/)
+[![Website Badge](https://img.shields.io/badge/-karanel.tech-0D4B89?style=flat-square&logo=React&logoColor=white&link=https://karanel.tech/)](https://karanel.tech/)
+[![Gmail Badge](https://img.shields.io/badge/-karan.agr9034@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karan.agr9034@gmail.com)](mailto:karan.agr9034@gmail.com)
