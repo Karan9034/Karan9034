@@ -44,12 +44,14 @@
 <br>
 <p align="center"> 
   Visitors count:<br>
-  <!--<img src="https://profile-counter.glitch.me/Karan9034/count.svg" />-->
+  <img src="https://profile-counter.glitch.me/Karan9034/count.svg" />
 </p>
 <br>
 <a href="https://github.com/Karan9034/github-readme-stats"><img alt="Karan Agrawal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Karan9034&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/Karan9034/github-readme-stats"><img alt="Karan Agrawal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan9034&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
+
+## 🚀 Social:
 
 [![Linkedin Badge](https://img.shields.io/badge/-karanel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karanel/)](https://www.linkedin.com/in/karanel/)
 [![Instagram Badge](https://img.shields.io/badge/-_karanel-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_karanel/)](https://www.instagram.com/_karanel/)
