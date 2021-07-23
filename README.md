@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Karan Agrawal</h2>
-<h4>I'm a Full Stack and Flutter Developer💻</h4>
+<h4>I'm a MERN Stack and Flutter Developer💻</h4>
 
 - 🔭 I’m currently working on a Flutter app (It's confidential🤫)
 
