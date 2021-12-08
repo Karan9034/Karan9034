@@ -44,9 +44,6 @@
   <img src="https://profile-counter.glitch.me/Karan9034/count.svg" />
 </p>
 <br>
-<a href="https://github.com/Karan9034/github-readme-stats"><img alt="Karan Agrawal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Karan9034&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Karan9034/github-readme-stats"><img alt="Karan Agrawal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan9034&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br>
 
 ## 🚀 Social:
 
@@ -63,4 +60,4 @@
 
 GitHub Streaks | GitHub Stats | Top Languages |
 | --- | --- | --- |
-![Karan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Karan9034&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) | ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan9034&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) | ![Karan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan9034&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) |
+![Karan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Karan9034&show_icons=true&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0) | ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan9034&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) | ![Karan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan9034&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) |
