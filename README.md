@@ -1,15 +1,13 @@
 <h2>Hi 👋, I'm Karan Agrawal</h2>
 <h4>I'm a MERN Stack and Flutter Developer💻</h4>
 
-- 🔭 I’m currently working on a Flutter app (It's confidential🤫)
+- 🔭 I’m currently working on **XYZ**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Computer Organization and Architecture**
 
-- 👯 I’m looking to collaborate on **MERN** and **Flutter** projects
+- 👨‍💻 All of my projects are available at my [GitHub Profile](https://github.com/Karan9034)
 
-- 👨‍💻 All of my projects are available on my [GitHub Profile](https://github.com/Karan9034)
-
-- 💬 Ask me anything about **Software Development**
+- 💬 Ask me anything about **System Architecture Design and Web Technologies**
 
 - 📫 How to reach me [Send an Email](mailto:karan.agr9034@gmail.com)
 
@@ -52,7 +50,17 @@
 
 ## 🚀 Social:
 
-[![Linkedin Badge](https://img.shields.io/badge/-karanel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karanel/)](https://www.linkedin.com/in/karanel/)
-[![Instagram Badge](https://img.shields.io/badge/-_karanel-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_karanel/)](https://www.instagram.com/_karanel/)
-[![Website Badge](https://img.shields.io/badge/-karanel.tech-0D4B89?style=flat-square&logo=React&logoColor=white&link=https://karanel.tech/)](https://karanel.tech/)
-[![Gmail Badge](https://img.shields.io/badge/-karan.agr9034@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karan.agr9034@gmail.com)](mailto:karan.agr9034@gmail.com)
+<p align="center">
+<a href="https://twitter.com/_karanel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_karan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karanel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanel" height="30" width="40" /></a>
+<a href="https://instagram.com/_karanel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_karanel" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/karanel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karanel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/karanel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karanel" height="30" width="40" /></a>
+</p>
+
+
+## Quick stats about me
+
+GitHub Streaks | GitHub Stats | Top Languages |
+| --- | --- | --- |
+![Karan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Karan9034&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan9034&show_icons=true&count_private=true) | ![Karan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan9034&show_icons=true&count_private=true&layout=compact) |
