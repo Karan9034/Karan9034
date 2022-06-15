@@ -1,9 +1,9 @@
 <h2>Hi 👋, I'm Karan Agrawal</h2>
-<h4>I'm a MERN Stack and Flutter Developer💻</h4>
+<h4>I'm a MERN Stack and Flask Developer💻</h4>
 
-- 🔭 I’m currently working on **XYZ**
+- 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Computer Organization and Architecture**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at my [GitHub Profile](https://github.com/Karan9034)
 
