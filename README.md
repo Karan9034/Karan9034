@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at my [GitHub Profile](https://github.com/Karan9034)
 
-- 💬 Ask me anything about **System Architecture Design and Web Technologies**
+- 💬 Ask me anything about **Cloud, Linux and Web Technologies**
 
 - 📫 How to reach me [Send an Email](mailto:karan.agr9034@gmail.com)
 
