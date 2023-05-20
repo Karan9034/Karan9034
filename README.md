@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my [GitHub Profile](https://github.com/Karan9034)
 
-- 💬 Ask me anything about **Cloud, Linux and Web Technologies**
+- 💬 Ask me anything about **Web Technologies and Cloud Computing**
 
 - 📫 How to reach me [Send an Email](mailto:karan.agr9034@gmail.com)
 
